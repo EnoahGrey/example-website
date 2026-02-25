@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enoah\\OneDrive\\Desktop\\Pathfinder Projects\\PlayFinder2e\\BMB.PlayFinder2e\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8ADD-8177-4FE5-A541-11D4D11DB09D}|BMB.PlayFinder2e.UI\\BMB.PlayFinder2e.UI.csproj|c:\\users\\enoah\\onedrive\\desktop\\pathfinder projects\\playfinder2e\\bmb.playfinder2e\\bmb.playfinder2e.ui\\frmplayfinder2e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C0C8ADD-8177-4FE5-A541-11D4D11DB09D}|BMB.PlayFinder2e.UI\\BMB.PlayFinder2e.UI.csproj|solutionrelative:bmb.playfinder2e.ui\\frmplayfinder2e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPlayFinder2e.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enoah\\OneDrive\\Desktop\\Pathfinder Projects\\PlayFinder2e\\BMB.PlayFinder2e\\BMB.PlayFinder2e.UI\\frmPlayFinder2e.cs",
+              "RelativeDocumentMoniker": "BMB.PlayFinder2e.UI\\frmPlayFinder2e.cs",
+              "ToolTip": "C:\\Users\\enoah\\OneDrive\\Desktop\\Pathfinder Projects\\PlayFinder2e\\BMB.PlayFinder2e\\BMB.PlayFinder2e.UI\\frmPlayFinder2e.cs [Design]",
+              "RelativeToolTip": "BMB.PlayFinder2e.UI\\frmPlayFinder2e.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T02:46:48.728Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
